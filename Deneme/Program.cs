@@ -8,6 +8,7 @@ namespace Deneme
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Salih");
+            Console.WriteLine("Yakup");
         }
     }
 }
