@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "denemeAngular"
+  "defaultProject": "denemeAngular",
+  "cli": {
+    "analytics": "270b8690-3d3b-45e7-af7a-d1903ae84398"
+  }
 }
